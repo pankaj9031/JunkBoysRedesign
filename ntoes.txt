@@ -1,0 +1,4 @@
+dark olive green - #9fb640
+light olive green - #d2f255
+brown - #533830
+font family montserrat
